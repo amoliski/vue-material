@@ -156,7 +156,8 @@
       "lcov",
       "json",
       "html"
-    ]
+    ],
+    "testURL": "http://localhost"
   },
   "browserslist": [
     "> 1%"
